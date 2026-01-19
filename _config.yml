@@ -24,7 +24,7 @@
 # Preferences (controls template behavior)
 preferences:
   homepage:
-    enabled: false
+    enabled: true
   search:
     enabled: true
   backlinks:
@@ -35,9 +35,9 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
+title: "fionatkeenan.github.io"
+heading: "a digital garden"
+description: "my collection of notes"
 url: "https://yoursite.com"
 baseurl: ""
 
@@ -57,7 +57,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2026 Fiona Keenan. Contents under CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"
