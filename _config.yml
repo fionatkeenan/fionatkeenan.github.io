@@ -48,10 +48,12 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
-    url: "/notes"
+  - title: "Garden"
+    url: "/garden"
   - title: "Blog"
     url: "/blog"
+  - title: "Publications"
+    url: "/publications"
   - title: "About"
     url: "/about"
 
