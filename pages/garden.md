@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Garden
 layout: Post
 permalink: /garden
 ---
