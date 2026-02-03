@@ -24,7 +24,7 @@
 # Preferences (controls template behavior)
 preferences:
   homepage:
-    enabled: true
+    enabled: false
   search:
     enabled: true
   backlinks:
@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "fionatkeenan.github.io"
-heading: "a digital garden"
-description: "my collection of notes"
-url: "https://fionatkeenan.github.io"
+title: "Your Site Title"
+heading: "Your Name"
+description: "A brief description of your site"
+url: "https://yoursite.com"
 baseurl: ""
 
 # Asset Configuration
@@ -48,16 +48,18 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
-    url: "/notes"
+  - title: "Garden"
+    url: "/garden"
   - title: "Blog"
     url: "/blog"
   - title: "About"
     url: "/about"
+  - title: "Publications"
+    url: "/publications"
 
 # Footer
 footer:
-  copyright: "© 2026 Fiona Keenan. Contents under CC-BY-NC"
+  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"
