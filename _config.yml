@@ -49,7 +49,7 @@ ie_css: "/assets/css/ie-target.css"
 # Menu Items
 menu:
   - title: "Garden"
-    url: "/garden"
+    url: "/notes"
   - title: "Blog"
     url: "/blog"
   - title: "Publications"
