@@ -63,7 +63,7 @@ footer:
   credits:
     enabled: true
     url: "/credits"
-    text: "Credits"
+    text: "Credits for Jekyll-Garden"
 
 # Collections
 collections:
