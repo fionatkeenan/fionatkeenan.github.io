@@ -10,7 +10,7 @@ This digital [garden](https://fionatkeenan.github.io/notes) is my attempt to int
 
 You can find my [publications](https://fionatkeenan.github.io/publications) to date listed on this site. I am currently teaching at The University of York and you can view my staff profile [[here::https://www.york.ac.uk/arts-creative-technologies/people/fiona-keenan/]]. 
 
-I also work on Citizen Disc, an archive of self-released and self-produced CDs, and you can access that [[here::[https://publish.obsidian.md/citizendisc/](https://publish.obsidian.md/citizendisc/)]]. 
+I also work on Citizen Disc, an archive of self-released and self-produced CDs, and you can access that [[here::https://publish.obsidian.md/citizendisc/]]. 
 
 I also write a personal blog about autistic experience over on Substack that you can access [[here::https://howigetaround.substack.com/]]
 
