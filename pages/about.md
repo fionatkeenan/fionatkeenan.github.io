@@ -14,6 +14,6 @@ I also work on Citizen Disc, an archive of self-released and self-produced CDs, 
 
 I also write a personal blog about autistic experience over on Substack that you can access [[here::https://howigetaround.substack.com/]]
 
+You can find me on socials using [[this link::[https://linktr.ee/fionatkeenan](https://linktr.ee/fionatkeenan)]]
 
-
-
+If you want to email me with feedback on this site, or any leads on things I should be reading (much appreciated), you can get me at fiona(dot)keenan(at)gmail(dot)com. 
