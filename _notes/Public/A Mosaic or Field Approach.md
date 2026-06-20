@@ -15,4 +15,5 @@ With reference to the current transformation, the reader may find the end of the
 McLuhan, M., 1962. _The Gutenberg Galaxy_. University of Toronto press.
 
 [[Ragpicking]]
+
 [[Timekeeper]]
