@@ -11,7 +11,7 @@ code: "202606200844"
 ---
 A 2016 artwork by Sarah Sze that gives me the feeling of sitting at my desk at home, looking at my computer screen. Rather than rendering time as a mosaic of language, Sze works with images as splices of time. 
 
-![Screenshot of Sarah Sze's 2016 artwork Timekeeper, a visually chaotic installation of a desktop cluttered by many different objects](assets/img/Screenshot-2026-06-20_0829.png)
+![Screenshot of Sarah Sze's 2016 artwork Timekeeper, a visually chaotic installation of a desktop cluttered by many different objects](/assets/img/Screenshot-2026-06-20_0829.png)
 
 Image found on [[Frieze Magazine::https://www.frieze.com/article/sarah-sze-interview-2023]]
 
