@@ -5,6 +5,7 @@ date: 2026-05-19
 tags:
   - method
 code: "202605190900"
+author: Walter Benjamin
 ---
 An essential bottom-up thinking approach, ragpicking occupies a lot of my time, thinking and writing. 
 
@@ -14,4 +15,5 @@ An essential bottom-up thinking approach, ragpicking occupies a lot of my time, 
 
 Benjamin, Walter (2003a) 'The Paris of the Second Empire in Baudelaire,' *Selected writings, Volume 4 1938-1940,* ed. Michael W Jennings, trans. Harry Zohn, Cambridge and London: Belknap Press, pp. 3-92. 
 
+[[A Mosaic or Field Approach]] 
 
