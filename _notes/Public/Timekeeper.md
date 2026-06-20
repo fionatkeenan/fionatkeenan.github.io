@@ -20,4 +20,5 @@ Image found on [[Frieze Magazine::https://www.frieze.com/article/sarah-sze-inter
 Erika Balsom and Sarah Sze (2023) 'Sarah Sze’s Experiments of Collective Timekeeping' *Frieze* Issue 235, 11 May (URL: https://www.frieze.com/article/sarah-sze-interview-2023, link accessed 20/06/2026)
 
 [[Ragpicking]]
+
 [[A Mosaic or Field Approach]]
