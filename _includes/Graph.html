@@ -1,0 +1,5 @@
+{%- if site.preferences.graph.enabled -%}
+<div id="graph-view" class="graph-view" data-url="{{ site.baseurl }}/GraphData.json"></div>
+<script src="{{ site.baseurl }}/assets/js/vendor/d3.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/Graph.js"></script>
+{%- endif -%}
