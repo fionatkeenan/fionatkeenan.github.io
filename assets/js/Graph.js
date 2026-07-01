@@ -67,11 +67,12 @@
       .force("collide", d3.forceCollide().radius(function (d) { return radius(d.degree) + 8; }));
 
     var link = zoomLayer.append("g")
-      .attr("stroke", colors.link)
-      .attr("stroke-opacity", 0.6)
       .selectAll("line")
       .data(links)
       .join("line")
+      .attr("stroke", function (d) { return d.type === "tag" ? colors.tag : colors.link; })
+      .attr("stroke-opacity", function (d) { return d.type === "tag" ? 0.35 : 0.6; })
+      .attr("stroke-dasharray", function (d) { return d.type === "tag" ? "2,3" : null; })
       .attr("stroke-width", 1);
 
     var node = zoomLayer.append("g")
@@ -136,7 +137,7 @@
     function clearHighlight() {
       node.style("opacity", 1);
       node.select("text").style("opacity", 0);
-      link.style("opacity", 0.6);
+      link.style("opacity", null);
     }
 
     simulation.on("tick", function () {
