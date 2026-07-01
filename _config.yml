@@ -33,6 +33,8 @@ preferences:
     enabled: true
   wiki_style_link:
     enabled: true
+  graph:
+    enabled: true
 
 # Site Configuration
 title: "fionatkeenan.github.io"
