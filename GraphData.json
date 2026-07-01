@@ -1,0 +1,67 @@
+---
+permalink: /GraphData.json
+---
+{
+  "nodes": [
+    {%- assign first_node = true -%}
+    {%- for note in site.notes -%}
+      {%- unless first_node -%},{%- endunless -%}
+      {%- assign first_node = false -%}
+      {
+        "id": {{ note.title | strip_html | jsonify }},
+        "title": {{ note.title | strip_html | jsonify }},
+        "url": "{{ site.baseurl }}{{ note.url }}",
+        "type": "note",
+        "tags": [{%- if note.tags -%}{%- for tag in note.tags -%}{{ tag | jsonify }}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}{%- endif -%}]
+      }
+    {%- endfor -%}
+    {%- assign all_tags = "" | split: "" -%}
+    {%- for note in site.notes -%}
+      {%- if note.tags -%}
+        {%- for tag in note.tags -%}
+          {%- unless all_tags contains tag -%}
+            {%- assign all_tags = all_tags | push: tag -%}
+          {%- endunless -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- for tag in all_tags -%}
+      ,{
+        "id": "tag:{{ tag }}",
+        "title": {{ tag | jsonify }},
+        "label": {{ tag | jsonify }},
+        "type": "tag"
+      }
+    {%- endfor -%}
+  ],
+  "links": [
+    {%- assign first_link = true -%}
+    {%- for note in site.notes -%}
+      {%- assign wiki_link_title = '[' | append: note.title | append: ']' -%}
+      {%- for other in site.notes -%}
+        {%- if other.url != note.url -%}
+          {%- if other.content contains wiki_link_title -%}
+            {%- unless first_link -%},{%- endunless -%}
+            {%- assign first_link = false -%}
+            {
+              "source": {{ other.title | strip_html | jsonify }},
+              "target": {{ note.title | strip_html | jsonify }},
+              "type": "wikilink"
+            }
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- if note.tags -%}
+        {%- for tag in note.tags -%}
+          {%- unless first_link -%},{%- endunless -%}
+          {%- assign first_link = false -%}
+          {
+            "source": {{ note.title | strip_html | jsonify }},
+            "target": "tag:{{ tag }}",
+            "type": "tag"
+          }
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+  ]
+}
