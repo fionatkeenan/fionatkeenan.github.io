@@ -18,9 +18,9 @@ For me, "knots" refers specifically to [R.D. Laing's ](https://en.wikipedia.org/
 An example (1970, p.58): 
 
 *If I don't know I don't know
-						I think I know
+I think I know
 If I don't know I know
-						I think I don't know*
+I think I don't know*
 
 The word play here is obviously very appealing. Since reading this book, I have pointed at every experience of stuckness (either mine, or a fictional character's) and declared *knots.* Hence, it has become its own category. 
 
