@@ -1,7 +1,7 @@
 ---
 title: Ripples of Slantways Thinking
 feed: show
-date: 2026-08-18T11:57:00
+date: 2026-08-18
 tags:
   - psychogeography
   - method
