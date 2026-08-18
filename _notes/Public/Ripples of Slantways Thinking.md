@@ -22,5 +22,6 @@ Natasha Burge's writing on autistic psychogeography:
 Burge, Natasha (2021) 'Excerpt from *Drifts*' *The Common,* 9th September (URL: https://www.thecommononline.org/excerpt-from-drifts/)
 
 
-[[The Condition of Having No Category]] 
+[[The Condition of Having No Category]]
+
 [[A Mosaic or Field Approach]] 
