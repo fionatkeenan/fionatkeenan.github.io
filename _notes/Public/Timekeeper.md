@@ -17,7 +17,7 @@ Image found on [[Frieze Magazine::https://www.frieze.com/article/sarah-sze-inter
 
 *The filmmaker Sergei Eisenstein’s theory from ‘A Dialectic Approach to Film Form’ (1929) of how meaning is derived from the juxtaposition of two shots is an idea that is threaded through the way I use each medium in the show. Even my paintings are collages; they splice together digital printing, silk screen, acrylic, oil paint and objects. You’re piecing together the image. The medium of collage is so relevant right now to digital image-makers: it’s all about the collecting and collaging of images. We piece together a film in our lives, every day, with the disjointed images that come at us. In one day, we edit together images from entirely different sources: high, low, distorted by others and then distorted in our own hands. It happens so quickly, and without any certainty about authorship or authenticity. The idea of scrolling is very interesting to me as a form of editing that we do in real time, with a random group of images, most of them unchosen.* (Balsom and Sze, 2023)
 
-Erika Balsom and Sarah Sze (2023) 'Sarah Sze’s Experiments of Collective Timekeeping' *Frieze* Issue 235, 11 May (URL: https://www.frieze.com/article/sarah-sze-interview-2023, link accessed 20/06/2026)
+Erika Balsom and Sarah Sze (2023) 'Sarah Sze’s Experiments of Collective Timekeeping' *Frieze* Issue 235, 11 May (URL: https://www.frieze.com/article/sarah-sze-interview-2023, accessed 20/06/2026) [[link::https://www.frieze.com/article/sarah-sze-interview-2023/]]
 
 [[Ragpicking]]
 

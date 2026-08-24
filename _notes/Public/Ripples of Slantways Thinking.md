@@ -19,8 +19,9 @@ Natasha Burge's writing on autistic psychogeography:
 *We are told we must articulate elaborate schemas, but I tell her there is something to be said for the stubborn insistence of simply being who you are, where you are. And then, from my skull, I pull out a tuft of cloud, limned and yielding, and I present it to her.*
 
 
-Burge, Natasha (2021) 'Excerpt from *Drifts*' *The Common,* 9th September (URL: https://www.thecommononline.org/excerpt-from-drifts/)
+Burge, Natasha (2021) 'Excerpt from *Drifts*' *The Common,* 9th September (URL: https://www.thecommononline.org/excerpt-from-drifts/, accessed 18.08.26) [[link:: https://www.thecommononline.org/excerpt-from-drifts/]]
 
 
-[[The Condition of Having No Category]] 
+[[The Condition of Having No Category]]
+  
 [[A Mosaic or Field Approach]] 
