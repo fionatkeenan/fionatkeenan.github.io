@@ -16,7 +16,7 @@ author: Carlo Rovelli
 
 Carlo Rovelli (2018) *The Order of Time*, p.28 
 
-See also: Wikipedia's entry on [[Ludwig Boltzmann::https://en.wikipedia.org/wiki/Ludwig_Boltzmann]]  
+See also: Wikipedia's entry on Ludwig Boltzmann [[link::https://en.wikipedia.org/wiki/Ludwig_Boltzmann]]  
 
 
 [[A Mosaic or Field Approach]] 
