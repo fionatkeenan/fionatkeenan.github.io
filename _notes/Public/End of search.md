@@ -18,4 +18,4 @@ Katie Baker (2026) 'The End of Google Search - and the Internet - as We Know it'
 
 ![Screenshot of a tweet dated 18th May 2024 which says "It's over, folks. Search as we kew it for last 30 years died this week."](/assets/img/endofsearch1.png)
 
-![Screenshot of a Google AI summary dated 1st September 2026 which says "The phrase "the end of search" describes the massive shift from traditional keyword-based link lists to AI-driven, conversational answers and zero-click experiences ."](/assets/img/Screenshot 2026-09-01_0845.png)
+![Screenshot of a Google AI summary dated 1st September 2026 which says "The phrase "the end of search" describes the massive shift from traditional keyword-based link lists to AI-driven, conversational answers and zero-click experiences ."](/assets/img/Screenshot-2026-09-01_0845.png)
