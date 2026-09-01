@@ -17,5 +17,7 @@ It is much easier for me to accumulate or create data than it is to put it to us
 Austin Kleon (2021) 'Indexing, filing systems, and the art of finding what you have' *austinkleon.com* Thursday 20th May (URL: https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have/) [[link::https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have/]]
 
 [[Disordered cards]]
-[[Ragpicking]] 
+  
+[[Ragpicking]]   
+
 [[The Condition of Having No Category]] 
